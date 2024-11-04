@@ -1,0 +1,10 @@
+﻿  zad 1 .c
+C:\Users\mateu\Desktop\Programowanie-w-c\lab 1 zad 1\lab 1 zad 1\zad 1 .c(94,10): warning C4473: „scanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+      C:\Users\mateu\Desktop\Programowanie-w-c\lab 1 zad 1\lab 1 zad 1\zad 1 .c(94,10):
+      symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+      C:\Users\mateu\Desktop\Programowanie-w-c\lab 1 zad 1\lab 1 zad 1\zad 1 .c(94,10):
+      brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+      C:\Users\mateu\Desktop\Programowanie-w-c\lab 1 zad 1\lab 1 zad 1\zad 1 .c(94,10):
+      ten argument jest używany jako rozmiar bufora
+  
+  lab 1 zad 1.vcxproj -> C:\Users\mateu\Desktop\Programowanie-w-c\lab 1 zad 1\x64\Debug\lab 1 zad 1.exe
